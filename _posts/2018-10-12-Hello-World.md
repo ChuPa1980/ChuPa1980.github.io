@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello World!
 ---
 
 I'm Skye Zhu.
